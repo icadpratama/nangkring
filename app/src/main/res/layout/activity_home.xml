@@ -6,16 +6,29 @@
     android:layout_height="match_parent"
     tools:context=".HomeActivity">
 
+    <ImageView
+        android:id="@+id/login_image"
+        android:layout_width="152dp"
+        android:layout_height="165dp"
+        app:srcCompat="@drawable/logo"
+        tools:layout_editor_absoluteX="120dp"
+        tools:layout_editor_absoluteY="121dp"
+        android:layout_marginTop="100dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+
     <TextView
         android:id="@+id/login_title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:text="Welcome Home"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/colorText"
         android:textSize="22sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        tools:ignore="MissingConstraints" />
+        app:layout_constraintTop_toBottomOf="@+id/login_image"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
