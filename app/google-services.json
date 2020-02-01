@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922438330624",
+    "firebase_url": "https://nangkring-d5ada.firebaseio.com",
+    "project_id": "nangkring-d5ada",
+    "storage_bucket": "nangkring-d5ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922438330624:android:7515ee9e31f11bbf93ebe5",
+        "android_client_info": {
+          "package_name": "com.kasta.nangkring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922438330624-njcgt5l5jq6jjh17qb5hktintrgvkrjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjvyHbnhM8yufv6uQ7VlbugPFSTThb7k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922438330624-njcgt5l5jq6jjh17qb5hktintrgvkrjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
