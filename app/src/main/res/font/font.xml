@@ -8,4 +8,18 @@
         android:fontStyle="normal"
         android:fontWeight="500"
         android:font="@font/poppins_medium" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="500"
+        android:font="@font/poppins_bold" />
+
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="500"
+        android:font="@font/poppins_extra_bold" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="500"
+        android:font="@font/poppins_semi_bold" />
 </font-family>
