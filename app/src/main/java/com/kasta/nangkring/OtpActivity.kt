@@ -54,10 +54,6 @@ class OtpActivity : AppCompatActivity() {
         finish()
     }
 
-    override fun onStart() {
-        super.onStart()
-    }
-
     companion object {
         private const val TAG = "OtpActivity"
     }
